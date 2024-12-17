@@ -27,7 +27,7 @@ PRYZM facilitates yield trading across any asset from any chain through a permis
 ### Connect with Us
 
 - [Twitter](https://x.com/Pryzm_Zone)
-- [Discord](https://discord.gg/pryzm)
+- [Discord](https://discord.gg/gpWeG57F43)
 - [Telegram](https://t.me/pryzm_zone)
 
 ### indigo-1 Testnet
